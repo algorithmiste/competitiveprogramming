@@ -1,0 +1,19 @@
+3
+5
+lt 60
+fd 20
+rt 30
+fd 50
+rt 45
+3
+fd 20
+lt 15
+fd 17
+6
+fd 50
+lt 90
+fd 50
+lt 90
+fd 50
+lt 90
+
