@@ -1,0 +1,15 @@
+
+
+Your task is to write a program that, given a description of a board, calculates the maximum number
+of rooks that can be placed on the board in a legal configuration.
+
+
+INPUT: The input file contains one or more board descriptions, followed by a line containing the number ‘0’
+that signals the end of the file. Each board description begins with a line containing a positive integer
+n that is the size of the board; n will be at most 4. The next n lines each describe one row of the board,
+with a ‘.’ indicating an open space and an uppercase ‘X’ indicating a wall. There are no spaces in the
+input file.
+
+
+OUTPUT: For each test case, output one line containing the maximum number of rooks that can be placed on the
+        board in a legal configuration.
